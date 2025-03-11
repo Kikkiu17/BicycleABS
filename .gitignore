@@ -1,0 +1,9 @@
+.settings/
+Debug/
+Release/
+backup/
+main_backup/
+mpu_dma/
+Drivers/
+Startup/
+*.ld
